@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+  <h1>NATACION</h1>  
+  <h2>RECORDS MUNDIALES MASCULINO </h2>
+  <p>Libre 50m – 20.88 – Cameron McEvoy (2026)
+  <P>Libre 100m – 46.40 – Pan Zhanle (2024)</P>
+  <P>Libre 200m – 1:42.00 – Paul Biedermann (2009)</P>
+  <P>Libre 400m – 3:39.96 – Lukas Märtens (2025)</P>
+  <P>Libre 800m – 7:32.12 – Zhang Lin (2009)</P>
+ <P>Libre 1500m – 14:30.67 – Bobby Finke (2024)</P>
+ <P>Espalda 50m – 23.55 – Kliment Kolesnikov (2023)</P>
+ <P>Espalda 100m – 51.60 – Thomas Ceccon (2022)</P>
+ <P>Espalda 200m – 1:51.92 – Aaron Peirsol (2009)</P>
+ <P>Pecho 50m – 25.95 – Adam Peaty (2017)</P>
+ <P>Pecho 100m – 56.88 – Adam Peaty (2019)</P>
+ <P>Pecho 200m – 2:05.48 – Qin Haiyang (2023)</P>
+ <P>Mariposa 50m – 22.27 – Andriy Govorov (2018)</P>
+ <P>Mariposa 100m – 49.45 – Caeleb Dressel (2021)</P>
+ <P>Mariposa 200m – 1:50.34 – Kristóf Milák (2022)</p></P>
+ <img src="https://tse4.mm.bing.net/th/id/OIP.xG1PVCqepRKzIQD0ntcIWgHaEK?r=0&pid=ImgDet&w=192&h=108&c=7&dpr=1,7&o=7&rm=3" alt="">
+<h2>RECORDS MUNDIALES FEMENINO </h2>
+ <P>Libre 50m – 23.55 – Gretchen Walsh</P>
+ <P>Libre 100m – 51.68 – Marrit Steenbergen</P>
+ <P>Libre 200m – 1:52.23 – Ariarne Titmus</P>
+ <P>Libre 400m – 3:54.18 – Summer McIntosh</P>
+ <P>Libre 800m – 8:04.12 – Katie Ledecky</P>
+ <P>Libre 1500m – 15:20.48 – Katie Ledecky</P>
+ <P>Espalda 50m – 26.86 – Kaylee McKeown</P>
+ <P>Espalda 100m – 57.13 – Regan Smith</P>
+ <P>Espalda 200m – 2:03.14 – Kaylee McKeown</P>
+ <P>Pecho 50m – 29.16 – Ruta Meilutyte</P>
+ <P>Pecho 100m – 1:04.13 – Lilly King</P>
+ <P>Mariposa 50m – 24.43 – Sarah Sjöström</P>
+ <P>Mariposa 100m – 55.59 – Maggie Mac Neil</P>
+ <P>Mariposa 200m – 2:01.81 – Liu Zige</P>
+ <img src="https://thumbs.dreamstime.com/b/nadadora-femenina-con-gorra-blanca-de-nado-y-gafas-estilo-libre-en-una-piscina-al-aire-destacando-la-nataci%C3%B3n-competitiva-el-325062823.jpg?w=576" alt=""> 
+</body>
+ <h2>red social de equipos</h2>
+<p><a href="https://www.instagram.com/deportivo_nautilius/">ir al instagram equipo nautilius</a>
+<p><a href="https://www.instagram.com/clubnarvalesdenatacion/">ir al instagram equipo narvales</a>
+<p><a href="https://www.instagram.com/deportescompensar/">ir al instagram equipo compensar</a>
+<p><a href="https://www.instagram.com/p/C6jWc-UOlsO/">ir al instagran equipo arrayanes</a>
+<p><a href="https://www.instagram.com/colsubsidioteamswim/">ir al instagram equipo colsubsidio</a>
+</html>
